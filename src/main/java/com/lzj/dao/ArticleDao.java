@@ -1,6 +1,6 @@
-package dao;
+package com.lzj.dao;
 
-import domain.Article;
+import com.lzj.domain.Article;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
